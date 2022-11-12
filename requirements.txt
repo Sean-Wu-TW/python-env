@@ -70,4 +70,3 @@ wcwidth==0.2.5
 webencodings==0.5.1
 gensim~=4.2.0
 missingno==0.5.1
-tensorflow==2.10.0
